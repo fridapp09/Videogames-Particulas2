@@ -1,0 +1,99 @@
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\pablo\source\repos\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\Frida\Downloads\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\Frida\Documents\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\joser\OneDrive\Escritorio\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\pablo\Downloads\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\Frida\Pictures\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\josea\OneDrive\Documentos\Universidad trabajos\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\pablo\Downloads\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.AssemblyReference.cache
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Form1.resources
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Properties.Resources.resources
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.Resource1.resources
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.GenerateResource.cache
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.csproj.CoreCompileInputs.cache
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.exe
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\obj\Debug\GV_LAB_4.pdb
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe.config
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.exe
+C:\Users\Frida\OneDrive\Escritorio\Borra 1\naturalparticles\GV_LAB\GV_LAB_4\GV_LAB_4\bin\Debug\GV_LAB_4.pdb
